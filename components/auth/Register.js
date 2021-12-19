@@ -52,3 +52,4 @@ export class RegisterScreen extends Component {
 }
 
 export default Register
+
